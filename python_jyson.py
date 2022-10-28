@@ -10,3 +10,5 @@ y1=json.dumps(x1)
 print(y1)
 
 print(json.dumps(["apple","banana","orenge"]))
+
+print(json.dumps(["gua","mango","orenge"]))
